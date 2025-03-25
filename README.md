@@ -39,7 +39,7 @@ This is a simple Task Management application built using **React (Vite) for fron
    ```
 4. Start the backend server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
